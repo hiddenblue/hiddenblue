@@ -4,7 +4,7 @@ on: [push]
 jobs:
   run-compose:
     timeout-minutes: 10
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout
