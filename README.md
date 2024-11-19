@@ -18,5 +18,5 @@ I'm Hiddenblue. I love building utilities aimed at increasing Developer producti
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddenblue&layout=compact" alt="Top Languages" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hiddenblue&show_icons=true&theme=light" alt="GitHub Stats" width="53%" />
+  <img src="https://github-readme-stats-git-master-hiddenblues-projects.vercel.app/api?username=hiddenblue&show_icons=true&theme=light" alt="GitHub Stats" width="53%" />
 </p>
